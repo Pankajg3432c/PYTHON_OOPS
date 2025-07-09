@@ -12,5 +12,5 @@ class Student:
 
 # Object is an instance of a class.
 
-s1 = Student("Pankaj","sharma");    
+s1 = Student("Pankaj","Gupta");    
 s1.show()
