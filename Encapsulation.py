@@ -9,8 +9,6 @@ class Student:
     def get_age(self):
         return self.__age
     
-    def get(self):
-        return self
 
     # Setter method
     def set_age(self, age):

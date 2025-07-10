@@ -9,6 +9,9 @@ class Student:
     def show(self):
         print(f"Name: {self.fullname}, Roll No: {self.surname}")
 
+    def get(self):
+        return self    
+
 print("hello")
 # Object is an instance of a class.
 
