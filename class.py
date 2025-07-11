@@ -9,10 +9,11 @@ class Student:
     def show(self):
         print(f"Name: {self.fullname}, Roll No: {self.surname}")
 
-
+    def pr():
+        print("hello")
     def show(self):
         print(f"Name: {self.fullname}, Roll No: {self.surname}")
-        
+
 # Object is an instance of a class.
 
 s1 = Student("Pankaj","Gupta");    
