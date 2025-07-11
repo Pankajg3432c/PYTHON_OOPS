@@ -14,6 +14,9 @@ class Student:
         print("sharma")
         print("hello")
 
+        print("pankaj")
+        print("jkhbbm")
+
     def show(self):
         print(f"Name: {self.fullname}, Roll No: {self.surname}")
 
