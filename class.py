@@ -12,6 +12,7 @@ class Student:
     def pr():
         print("hello")
         print("sharma")
+        
     def show(self):
         print(f"Name: {self.fullname}, Roll No: {self.surname}")
 
